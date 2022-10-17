@@ -88,7 +88,8 @@ a {
 }
 
 .ref {
-  text-align: center;
+  width: 40%;
+  margin: 40px auto 60px auto;
 
 }
 
@@ -145,4 +146,8 @@ hr {
   border-bottom: none;
   width: 4%;
   margin: 100px auto 100px auto;
+}
+
+.Tindog {
+  color: #ff4c68;
 }
